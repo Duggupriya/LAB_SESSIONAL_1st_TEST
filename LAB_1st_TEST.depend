@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1608611664 source:d:\manipal study\ada\stackandqueueassign\lab_1st_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"tradingQ.h"
+	<assert.h>
+	<stdlib.h>
+
+1608612216 d:\manipal study\ada\stackandqueueassign\lab_1st_test\tradingq.h
+	<stdint.h>
+	"appconst.h"
+
+1608605404 d:\manipal study\ada\stackandqueueassign\lab_1st_test\appconst.h
+
+1608612420 source:d:\manipal study\ada\stackandqueueassign\lab_1st_test\tradingqimp.c
+	<stdint.h>
+	"tradingQ.h"
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+
